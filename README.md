@@ -32,3 +32,6 @@ There was no direct method to save the data printed in the serial monitor into a
 
 **How To Run:**
 First we press the uploading icon on the arduino IDE. Then after it has done uploading, we open the TeraTerm, choose the serial option and press “OK”. Afterwards, we open the file drop down list, choose log and enter the (.txt) file name after choosing its destination.
+
+**Team Members:**
+This project is done by a team of three computer science and engineering students, including me.
