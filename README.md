@@ -16,7 +16,6 @@ This approach will let us keep track of the exact duration the student has spent
 - Arduino Mega board.
 
 **Language Used:**
-
 Arduino C
 
 **Libraries Used:**
