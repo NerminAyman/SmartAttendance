@@ -15,6 +15,10 @@ This approach will let us keep track of the exact duration the student has spent
 - RFID sensor (detects the IDs and their bar-code)
 - Arduino Mega board.
 
+**Language Used:**
+
+Arduino C
+
 **Libraries Used:**
 - MFRC522: provides functions that are used to capture the reading of the RFID sensor to the cards.
 - LiquidCrystal: provides functions that are used to display data.
